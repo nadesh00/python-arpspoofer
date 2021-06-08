@@ -1,4 +1,4 @@
-#!/bin/sh python3
+#!/bin/sh/python3
 import time
 
 import scapy.all as scapy
